@@ -15,7 +15,7 @@
 
 nav a{
     text-align: center;
-    color:aqua;
+    color:#27233a;
     text-decoration: none;
 }
 #hero-msg h1, #hero-msg h4{
@@ -32,52 +32,52 @@ main section{
     height:725px;
 }
 body{
-    background-color:black;
-}
-header{
     background-color:white;
 }
+header{
+    background-color:#73c9cc;
+}
 nav a:hover{
-    background-color:blue;
-    color:black;
+    background-color:#8f6ce0;
+    color:#ff1053;
 }
 .book, .join{
-    background-color:pink;
+    background-color:#f3f58d;
     color:black;
     text-decoration: none;
 }
 .book:hover, .join:hover{
-    background-color:black;
-    color:black;
+    background-color:rgb(100, 156, 142);
+    color:#27233a;
 }
 #background{
-    background-color:pink;
+    background-color:rgb(108, 173, 157);
 }
 .msg{
-    background-color:black;
+    background-color:white;
 }
 footer{
-    background-color:yellow;
-    color:black;
+    background-color:#ddd376;
+    color:#27233a;
 }
 .home-title{
-    color:black;
+    color:green;
 }
 h4{
-    color:black;
+    color:#27233a;
 }
 .msg h2{
     color:black;
 }
 .msg p{
-    color:black;
+    color:#27233a;
 }
 footer a{
-    color:black;
+    color:#ff1053;
     text-decoration: none;
 }
 footer a:hover{
-    color:black;
+    color:blue;
 }
 footer p{
     font-size: 1.2em;
