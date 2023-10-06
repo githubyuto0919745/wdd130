@@ -1,0 +1,33 @@
+
+.maincontent{
+    width: 450px;
+    background-color: rgb(248, 115, 215);
+    margin: 0 auto;
+    text-align:center;
+}
+body{
+    width: 1000px;
+    background-color: rgb(248, 115, 215);
+}
+
+h1:hover{
+    color:white;
+}
+p{
+    color:black;
+    font-size: small;
+    margin: 0 auto;
+    text-align:center;
+}
+p{
+    color:white;
+    font-size:larger;
+    margin: 0 auto;
+    text-align: center;
+}
+p1{
+    color:black;
+    font-size:larger;
+    margin:0 auto;
+    text-align: center;
+}
