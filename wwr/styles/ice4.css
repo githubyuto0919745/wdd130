@@ -1,33 +1,49 @@
 
 .maincontent{
-    width: 450px;
-    background-color: rgb(248, 115, 215);
+    width: 500px;
+    background-color:#f0aedc;
     margin: 0 auto;
     text-align:center;
 }
 body{
-    width: 1000px;
-    background-color: rgb(248, 115, 215);
+    width: 500px;
+    margin:0 auto;
+    background-color: #f0aedc;
+}
+
+div h1{
+    font-size: 5em;
 }
 
 h1:hover{
     color:white;
-}
-p{
     color:black;
-    font-size: small;
-    margin: 0 auto;
-    text-align:center;
 }
-p{
+div{
     color:white;
-    font-size:larger;
-    margin: 0 auto;
-    text-align: center;
+    font-size:small;
+
 }
-p1{
+.name{
+    color:white;
+    font-size: medium;
+}
+p{
     color:black;
-    font-size:larger;
+    font-size:medium;
+    text-align:left;
+}
+.images{
+    width: 50%;
+    height: 50%;
     margin:0 auto;
+    
+}
+h2 blockquote{
+    color: white;
+    font-size: xx-large;
+}
+footer p{
     text-align: center;
+    color:black
 }

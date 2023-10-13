@@ -1,0 +1,26 @@
+body{
+    background-color: gray;
+    margin:0;
+}
+
+
+.top img{
+    width:100%;
+}
+
+.bottom{
+    text-align: center;
+    padding: 30px;
+    
+}
+.middle{
+    margin: 0 60px;
+}
+
+.bottom img{
+    width: 15%;
+    border-radius: 50%;
+    display:inline-block;
+    border: 20px solid rgb(59, 58, 58);
+}
+
