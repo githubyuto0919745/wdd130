@@ -1,0 +1,40 @@
+body{
+    width:90%;
+    height:80%;
+}
+
+.grid-container{
+    display:grid;
+   grid-template-columns: 1fr 1fr 1fr;
+    
+}
+.middle{
+    color: black;
+    font-size: 10em;
+    text-align: center;
+    width: 100%;
+    grid-column: 1/4;
+    grid-row:1/2;
+    position:absolute;    
+}
+
+
+.right{
+    grid-column: 2/4; 
+    background-color: gray;
+}
+.left{
+    grid-column: 1/2;
+    grid-row:1/2;
+}
+.cherry{
+     margin-left: 150px;
+     
+}
+.cherries{
+    font-size: 120px;
+    text-align: center;
+    color:rgb(139, 5, 5);
+    margin-top:70%;
+
+}
