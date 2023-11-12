@@ -241,3 +241,23 @@ footer .social img{
         margin-top: 25px;
     }
 }
+.camping-img{
+    
+    width:100%;
+    height:800px;
+}
+.description_camping{
+    background-color: black;
+    color: white;
+    width: 40%;
+    text-align: left;
+} 
+.camping-img2{
+    height: 300px;
+    float: right;
+    margin-right: 15px;
+    
+} 
+.background-camp{
+    background-color: #73c9cc;
+}

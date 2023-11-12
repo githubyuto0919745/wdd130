@@ -1,0 +1,15 @@
+body{
+    color:black;
+}
+.card{
+    width: 250px;
+    margin:0 auto;
+    background-color: white;
+}
+.header image{
+    width: 100%;
+}
+.awesomearticle{
+    padding: 10%;
+    text-align: center;
+}
